@@ -21,6 +21,7 @@ function Navbar() {
           </li>
         </ul>
       </div>
+      <hr />
     </Wrapper>
   );
 }

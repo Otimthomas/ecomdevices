@@ -1,7 +1,12 @@
 import React from "react";
+import ListItems from "../components/ListItems";
 
 function HomePage() {
-  return <div>HomePage</div>;
+  return (
+    <div>
+      <ListItems />
+    </div>
+  );
 }
 
 export default HomePage;
