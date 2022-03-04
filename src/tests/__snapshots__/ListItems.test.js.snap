@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListItems /> matches the snapshot 1`] = `
+<div
+  className="sc-gsDKAQ dHdcHe"
+>
+  <div>
+    <div
+      className="sc-bdvvtL efPRUK"
+    >
+      <div
+        className="card"
+      >
+        <img
+          alt="Iphone"
+          src="/static/iphone.jpg"
+        />
+        <p>
+          Iphone
+        </p>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="sc-bdvvtL efPRUK"
+    >
+      <div
+        className="card"
+      >
+        <img
+          alt="Laptop"
+          src="/static/laptop.jpg"
+        />
+        <p>
+          Laptop
+        </p>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="sc-bdvvtL efPRUK"
+    >
+      <div
+        className="card"
+      >
+        <img
+          alt="Printer"
+          src="/static/printer.jpg"
+        />
+        <p>
+          Printer
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

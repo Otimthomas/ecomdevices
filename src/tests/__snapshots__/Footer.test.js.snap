@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> matches the snapshot 1`] = `
+<footer
+  className="sc-bdvvtL coUWpe"
+>
+  <h3>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore nemo quod numquam,
+  </h3>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing
+  </p>
+  <div
+    className="copyright__text"
+  >
+    <p>
+      ©Designs 
+      2022
+    </p>
+  </div>
+</footer>
+`;
